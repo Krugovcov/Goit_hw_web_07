@@ -1,5 +1,5 @@
 [project]
-name = "hw-web-07"
+name = "pythonhw"
 version = "0.1.0"
 description = ""
 authors = [
@@ -11,6 +11,7 @@ dependencies = [
     "sqlalchemy (>=2.0.39,<3.0.0)",
     "alembic (>=1.15.1,<2.0.0)",
     "psycopg2 (>=2.9.10,<3.0.0)",
+    "faker (>=37.0.0,<38.0.0)",
     "psycopg2-binary (>=2.9.10,<3.0.0)"
 ]
 

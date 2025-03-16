@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Goit_hw_web_07.iml" filepath="$PROJECT_DIR$/.idea/Goit_hw_web_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonhw.iml" filepath="$PROJECT_DIR$/.idea/pythonhw.iml" />
     </modules>
   </component>
 </project>
